@@ -1,0 +1,100 @@
+/*Style Sheet Document for KF7004 MComp Computing Research Project*/
+/*Shona Start w17019752*/
+
+.wrapper{ /*Wrapper surrounds page*/
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #ffffE5;
+}
+
+header{ /*Contains Logo and Title*/
+    width: 99%;
+    height: 20%;
+    background-color: #ffffE5;
+    padding: 0 0 1% 0;
+    margin: 0;
+    overflow: hidden;
+    /*border-style: solid;*/
+}
+
+main{ /*Contains main bulk of text and images*/
+    background-color: #ffffE5;
+    width: 90%;
+    height: 50%;
+    padding: 2% 5% 2% 5%;
+    margin: 1% 0 1% 0;
+    overflow: hidden;
+    float: left;
+    /*border-style: solid;*/
+}
+
+footer { /*Footer at bottom of page*/
+    background-color: #ffffE5;
+    width: 99%;
+    height: 20%;
+    padding: 1% 1% 1% 1%;
+    margin: 1% 10% 0 0;
+    float: left;
+    overflow: hidden;
+    /*border-style: solid;*/
+}
+
+h1{ /*Heading for page*/
+    font-size:2.5em;
+    text-align: center;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    cursor: default;
+    font-weight: bold;
+    line-height: 100%;
+}
+
+h2{ /*Heading for main*/
+    font-family: Arial, sans-serif;
+    color: #000000;
+    font-size:1.5em;
+    cursor: default;
+    font-weight: bold;
+    line-height: 100%;
+}
+
+
+p, li{ /*style for most text*/
+    font-family: Arial, sans-serif;
+    color: #000000;
+    font-size:1.5em;
+    line-height: 100%;
+    cursor: default;
+    padding: 1% 1% 1% 1%;
+    letter-spacing: 1px;
+}
+
+.button {
+    background-color: #ffffff;
+    border-style: solid;
+    color: #000000;
+    border-color: #000000;
+    padding: 2% 2% 2% 2%;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    font-size: 1.5em;
+    margin: 2% 2%;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #87cefa;
+    color: #000000;
+}
+
+.box{
+    padding-bottom: 2%;
+    width: 50%;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+
