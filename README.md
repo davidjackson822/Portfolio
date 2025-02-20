@@ -1,2 +1,2 @@
 # Portfolio
-A Portfolio of some of my coding projects, they may not be perfect, but I'm always improving.
+A Portfolio of some of my coding projects from my time at Northumbria University.
